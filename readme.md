@@ -1,0 +1,1 @@
+In the first of my HTML projects, I shall be designing an admittedly brutalist website using basic HTML. My initial objective is to ensure that everything works and appears as it should. I hope to revisit this project when I have an understanding of CSS + Javascript, in order to see what personal development I can achieve and implement. 
